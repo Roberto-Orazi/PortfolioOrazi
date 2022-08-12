@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioOrazi/static/css/main.951de32b.css",
-    "main.js": "/PortfolioOrazi/static/js/main.05ed7a73.js",
+    "main.css": "/PortfolioOrazi/static/css/main.89c9fa0b.css",
+    "main.js": "/PortfolioOrazi/static/js/main.c1062cee.js",
     "static/js/787.aeca62f9.chunk.js": "/PortfolioOrazi/static/js/787.aeca62f9.chunk.js",
     "static/media/fondoproyecto5.jpg": "/PortfolioOrazi/static/media/fondoproyecto5.0f386814477f71d5b528.jpg",
     "static/media/fondoautos.png": "/PortfolioOrazi/static/media/fondoautos.57632281d4dbb172ecd5.png",
@@ -19,12 +19,12 @@
     "static/media/logo1.png": "/PortfolioOrazi/static/media/logo1.41e82272f7136f2f2f52.png",
     "static/media/tablerov2.png": "/PortfolioOrazi/static/media/tablerov2.18663a682dbc25cc03b7.png",
     "index.html": "/PortfolioOrazi/index.html",
-    "main.951de32b.css.map": "/PortfolioOrazi/static/css/main.951de32b.css.map",
-    "main.05ed7a73.js.map": "/PortfolioOrazi/static/js/main.05ed7a73.js.map",
+    "main.89c9fa0b.css.map": "/PortfolioOrazi/static/css/main.89c9fa0b.css.map",
+    "main.c1062cee.js.map": "/PortfolioOrazi/static/js/main.c1062cee.js.map",
     "787.aeca62f9.chunk.js.map": "/PortfolioOrazi/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.951de32b.css",
-    "static/js/main.05ed7a73.js"
+    "static/css/main.89c9fa0b.css",
+    "static/js/main.c1062cee.js"
   ]
 }
