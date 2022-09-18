@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fda94a3.css",
-    "main.js": "/static/js/main.942e5ad6.js",
+    "main.css": "/static/css/main.00755362.css",
+    "main.js": "/static/js/main.d7d34dfd.js",
     "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
     "static/media/fondoproyecto5.jpg": "/static/media/fondoproyecto5.0f386814477f71d5b528.jpg",
     "static/media/fondoautos.png": "/static/media/fondoautos.57632281d4dbb172ecd5.png",
@@ -12,6 +12,7 @@
     "static/media/consultorio.jpg": "/static/media/consultorio.2b064f0ba3e01f4c8c97.jpg",
     "static/media/banner-bg.jpg": "/static/media/banner-bg.a51cec6d741d43fc3c17.jpg",
     "static/media/header-img.png": "/static/media/header-img.2096e7642397ea8cea0d.png",
+    "static/media/felixcasabe.jpg": "/static/media/felixcasabe.31e0834cc0dca48d0b30.jpg",
     "static/media/banner-bg2.jpg": "/static/media/banner-bg2.a5ae9ca05f5c2ccb976d.jpg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -19,12 +20,12 @@
     "static/media/logo1.png": "/static/media/logo1.41e82272f7136f2f2f52.png",
     "static/media/tablerov2.png": "/static/media/tablerov2.18663a682dbc25cc03b7.png",
     "index.html": "/index.html",
-    "main.4fda94a3.css.map": "/static/css/main.4fda94a3.css.map",
-    "main.942e5ad6.js.map": "/static/js/main.942e5ad6.js.map",
+    "main.00755362.css.map": "/static/css/main.00755362.css.map",
+    "main.d7d34dfd.js.map": "/static/js/main.d7d34dfd.js.map",
     "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fda94a3.css",
-    "static/js/main.942e5ad6.js"
+    "static/css/main.00755362.css",
+    "static/js/main.d7d34dfd.js"
   ]
 }
