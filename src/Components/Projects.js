@@ -7,19 +7,19 @@ import directimpresiones from "../archivos/imagenes/3direct.jpg";
 import consultorio from "../archivos/imagenes/consultorio.jpg";
 import taller from "../archivos/imagenes/Orazirepuestos.jpg";
 import felix from "../archivos/imagenes/felixcasabe.jpg"
-
+import tastypizza from "../archivos/imagenes/tastypizza.jpg"
 
 export const Projects = () => {
   const projects = [
     {
       title: "3Direct Impresiones",
-      description: "Hecha con HTML, CSS y React.JS",
+      description: "Hecha con React.JS",
       imgUrl: directimpresiones,
       LinkUrl:"https://www.3directimpresiones.com.ar/"
     },
     {
       title: "Athena Store",
-      description: "Hecha con HTML, CSS y NODE.JS",
+      description: "Hecha con ReactJS y NODE.JS",
       imgUrl: athenastore,
       LinkUrl:"https://www.athenastore.com.ar/"
     },
@@ -47,7 +47,12 @@ export const Projects = () => {
       imgUrl: taller,
       LinkUrl:"https://www.orazirepuestos.com.ar/"
     },
-    
+    {
+      title: "Tasty Pizza",
+      description: "Hecha con ReactJS",
+      imgUrl: tastypizza,
+      LinkUrl:"https://www.tastypizza.com.ar/"
+    },
   ];
 
   return (
