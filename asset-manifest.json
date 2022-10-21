@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed2a6ece.css",
-    "main.js": "/static/js/main.08f87467.js",
+    "main.js": "/static/js/main.1107720a.js",
     "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
     "static/media/fondoproyecto5.jpg": "/static/media/fondoproyecto5.0f386814477f71d5b528.jpg",
     "static/media/fondoautos.png": "/static/media/fondoautos.57632281d4dbb172ecd5.png",
@@ -16,6 +16,7 @@
     "static/media/Roberto_Orazi_CV.pdf": "/static/media/Roberto_Orazi_CV.4f27bb769b72972e1281.pdf",
     "static/media/kustomkeyboard.jpg": "/static/media/kustomkeyboard.8ed6818ba7703fe052b5.jpg",
     "static/media/felixcasabe.jpg": "/static/media/felixcasabe.31e0834cc0dca48d0b30.jpg",
+    "static/media/athenahp.jpg": "/static/media/athenahp.bd99e3d0999fff15c3e1.jpg",
     "static/media/banner-bg2.jpg": "/static/media/banner-bg2.a5ae9ca05f5c2ccb976d.jpg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -24,11 +25,11 @@
     "static/media/tablerov2.png": "/static/media/tablerov2.18663a682dbc25cc03b7.png",
     "index.html": "/index.html",
     "main.ed2a6ece.css.map": "/static/css/main.ed2a6ece.css.map",
-    "main.08f87467.js.map": "/static/js/main.08f87467.js.map",
+    "main.1107720a.js.map": "/static/js/main.1107720a.js.map",
     "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2a6ece.css",
-    "static/js/main.08f87467.js"
+    "static/js/main.1107720a.js"
   ]
 }
