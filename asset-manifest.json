@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed2a6ece.css",
-    "main.js": "/static/js/main.c5a9fac2.js",
+    "main.js": "/static/js/main.e4bb441b.js",
     "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
     "static/media/fondoproyecto5.jpg": "/static/media/fondoproyecto5.0f386814477f71d5b528.jpg",
     "static/media/fondoautos.png": "/static/media/fondoautos.57632281d4dbb172ecd5.png",
@@ -9,6 +9,7 @@
     "static/media/minalovers.jpg": "/static/media/minalovers.4ec0cb68b8b02198b697.jpg",
     "static/media/3direct.jpg": "/static/media/3direct.40fdef05186e68d0a766.jpg",
     "static/media/athenastore.jpg": "/static/media/athenastore.ddada3add8684263abce.jpg",
+    "static/media/camio.jpg": "/static/media/camio.5d763a84a82a7c8a22fa.jpg",
     "static/media/tastypizza.jpg": "/static/media/tastypizza.aea32d759a424b94b2f7.aea32d759a424b94b2f7.jpg",
     "static/media/consultorio.jpg": "/static/media/consultorio.2b064f0ba3e01f4c8c97.jpg",
     "static/media/banner-bg.jpg": "/static/media/banner-bg.a51cec6d741d43fc3c17.jpg",
@@ -26,11 +27,11 @@
     "static/media/tablerov2.png": "/static/media/tablerov2.18663a682dbc25cc03b7.png",
     "index.html": "/index.html",
     "main.ed2a6ece.css.map": "/static/css/main.ed2a6ece.css.map",
-    "main.c5a9fac2.js.map": "/static/js/main.c5a9fac2.js.map",
+    "main.e4bb441b.js.map": "/static/js/main.e4bb441b.js.map",
     "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2a6ece.css",
-    "static/js/main.c5a9fac2.js"
+    "static/js/main.e4bb441b.js"
   ]
 }
