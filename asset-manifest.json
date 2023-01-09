@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.ed2a6ece.css",
-    "main.js": "/static/js/main.22c49a8b.js",
+    "main.js": "/static/js/main.4ecfcc45.js",
     "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
     "static/media/fondoproyecto5.jpg": "/static/media/fondoproyecto5.0f386814477f71d5b528.jpg",
     "static/media/fondoautos.png": "/static/media/fondoautos.57632281d4dbb172ecd5.png",
     "static/media/Orazirepuestos.jpg": "/static/media/Orazirepuestos.d0ba81ba181f61165597.jpg",
     "static/media/minalovers.jpg": "/static/media/minalovers.4ec0cb68b8b02198b697.jpg",
+    "static/media/camiov2.jpg": "/static/media/camiov2.3a4f2f2ee44585e8c2bc.jpg",
     "static/media/3direct.jpg": "/static/media/3direct.40fdef05186e68d0a766.jpg",
     "static/media/athenastore.jpg": "/static/media/athenastore.ddada3add8684263abce.jpg",
-    "static/media/camio.jpg": "/static/media/camio.d79aff4324cde8bb0965.jpg",
     "static/media/tastypizza.jpg": "/static/media/tastypizza.aea32d759a424b94b2f7.aea32d759a424b94b2f7.jpg",
     "static/media/consultorio.jpg": "/static/media/consultorio.2b064f0ba3e01f4c8c97.jpg",
     "static/media/banner-bg.jpg": "/static/media/banner-bg.a51cec6d741d43fc3c17.jpg",
     "static/media/header-img.png": "/static/media/header-img.2096e7642397ea8cea0d.png",
-    "static/media/Roberto_Orazi_CV.pdf": "/static/media/Roberto_Orazi_CV.4f27bb769b72972e1281.pdf",
+    "static/media/Roberto_Orazi_CV_IT.pdf": "/static/media/Roberto_Orazi_CV_IT.7d72a9e26cb33732f016.pdf",
     "static/media/mpbdist.jpg": "/static/media/mpbdist.b44d6ef4472e9bc4e011.jpg",
     "static/media/kustomkeyboard.jpg": "/static/media/kustomkeyboard.8ed6818ba7703fe052b5.jpg",
     "static/media/felixcasabe.jpg": "/static/media/felixcasabe.31e0834cc0dca48d0b30.jpg",
@@ -27,11 +27,11 @@
     "static/media/tablerov2.png": "/static/media/tablerov2.18663a682dbc25cc03b7.png",
     "index.html": "/index.html",
     "main.ed2a6ece.css.map": "/static/css/main.ed2a6ece.css.map",
-    "main.22c49a8b.js.map": "/static/js/main.22c49a8b.js.map",
+    "main.4ecfcc45.js.map": "/static/js/main.4ecfcc45.js.map",
     "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2a6ece.css",
-    "static/js/main.22c49a8b.js"
+    "static/js/main.4ecfcc45.js"
   ]
 }
